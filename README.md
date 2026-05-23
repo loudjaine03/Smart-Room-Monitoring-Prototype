@@ -17,13 +17,13 @@ A comprehensive an embedded system for real-time room monitoring. This project i
 ---
 
 ### Mobile Application
-
-<img width="922" height="2048" alt="701900884_1557203292601368_7254079088040938593_n" src="https://github.com/user-attachments/assets/315fe091-6e49-4b6a-bcde-e005f1323b49" />
+<img src="https://github.com/user-attachments/assets/315fe091-6e49-4b6a-bcde-e005f1323b49" alt="Android App Interface" width="300" />
 * The Android dashboard showing real-time sensor data.*
 
 
 ### Circuit Design (Tinkercad)
 <img width="677" height="342" alt="Screenshot 2026-05-20 230127" src="https://github.com/user-attachments/assets/47d9cefe-37a6-4dc5-9c56-e14770d17612" />
+
 *The hardware schematic designed in Tinkercad.*
 
 [View full Tinkercad project here]([YOUR_TINKERCAD_LINK](https://www.tinkercad.com/things/hb6XKCDYtRV-smart-room?sharecode=S4YNLvbtr4a2TvJbT24urnJHxnpiuZ8lL5D2Yparf5E))
