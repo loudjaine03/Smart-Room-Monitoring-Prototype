@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <!-- Couleur de fond -->
+        <solid android:color="#a8c2e0"/>
+
+        <!-- Bordure -->
+        <stroke
+            android:width="2dp"
+            android:color="#a8c2e0"/>
+
+        <!-- Coins arrondis (optionnel) -->
+        <corners android:radius="30dp"/>
+
+
+
+    </shape>
