@@ -1,6 +1,6 @@
 # Smart-Room-Monitoring-Prototype
 
-A comprehensive an embedded system for real-time room monitoring. This project integrates hardware sensing, a backend gateway for data processing, and a mobile application for user alerts and status monitoring.
+An embedded system for real-time room monitoring. This project integrates hardware sensing, a backend gateway for data processing, and a mobile application for user alerts and status monitoring.
 
 ## Tech Stack
 * **Hardware:** Arduino, PIR Sensors, DHT11, Servo motor, leds
